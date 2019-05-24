@@ -9,7 +9,7 @@ module.exports = {
   siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
   siteUrl: 'https://asgekarsoftware.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  // siteLogo: '/logo.png', // Used for SEO and manifest
+  // siteLogo: '/logo2.png', // Used for SEO and manifest
   siteDescription: 'High quality developers at competitive prices',
   author: 'LekoArts', // Author for schema.org JSONLD
 

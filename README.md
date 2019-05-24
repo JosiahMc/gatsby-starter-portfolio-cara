@@ -94,7 +94,7 @@ module.exports = {
   siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
   siteUrl: 'https://cara.lekoarts.de', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logo.png', // Used for SEO and manifest
+  siteLogo: '/logo2.png', // Used for SEO and manifest
   siteDescription: '',
   author: 'LekoArts', // Author for schema.org JSONLD
 

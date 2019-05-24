@@ -97,9 +97,8 @@ const Index = () => (
             link="https://www.behance.net/gallery/43907099/Tomb-Raider"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Process and Product - experience working with both failed and
-            succesful startups. Big picture thinker that falls in love with the
-            problem, not the solution.
+            Process & Product - experience working with both failed and
+            succesful startups. Big picture thinker with proven product intuition. 
           </ProjectCard>
           {/* <ProjectCard
             title="Eagle"

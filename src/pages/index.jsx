@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>Asgekar Software.</BigTitle>
-        <Subtitle> Complex Projects on Time </Subtitle>
+        <Subtitle> Complex Projects On Time </Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Leadership</Title>
